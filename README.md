@@ -1,4 +1,4 @@
 # ndvi-anomaly-detection
 
 
-This project deals with NDVI anamolay detection form remote sensing data.
+This project deals with NDVI anamolay detection from remote sensing data.
